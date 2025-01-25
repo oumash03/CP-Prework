@@ -2,7 +2,7 @@
 
 Submitted by: **Oumaima Achour**
 
-**Name of your app** is an app that... [TODO] 
+Background color changer is a simple iOS app that allows users to change the background color of the screen at the press of a button. 
 
 Time spent: 2
 
