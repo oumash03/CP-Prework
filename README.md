@@ -16,17 +16,17 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-1- Facebook 
-        Setting the location and radius to find nearby sellers or buyers (Facebook market).
-        Muting pages or people for a cleaner feed.
-     Instagram
-        Alerts when someone takes a screenshot of your messages.
-        Sending disappearing messages for temporary chats.
-        Sharing collections with friends for collaborative inspiration.
-     Netflix
-        Downloading shows/movies for offline viewing.
-        Adjusting brightness for better visibility in different lighting.
-        Locking the screen to prevent accidental touches during watching.
+1- Facebook   
+     Setting the location and radius to find nearby sellers or buyers (Facebook market).  
+     Muting pages or people for a cleaner feed.  
+   Instagram  
+     Alerts when someone takes a screenshot of your messages.  
+     Sending disappearing messages for temporary chats.  
+     Sharing collections with friends for collaborative inspiration.  
+   Netflix  
+     Downloading shows/movies for offline viewing.  
+     Adjusting brightness for better visibility in different lighting.  
+     Locking the screen to prevent accidental touches during watching.
      
   2- FriendMatch
     
