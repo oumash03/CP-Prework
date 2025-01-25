@@ -1,4 +1,4 @@
-# Prework - *Codepath_prework*
+# Prework - Background color changer
 
 Submitted by: **Oumaima Achour**
 
