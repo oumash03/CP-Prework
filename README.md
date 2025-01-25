@@ -6,6 +6,9 @@ Background color changer is a simple iOS app that allows users to change the bac
 
 Time spent: 2
 
+![](https://i.imgur.com/c4TLQjg.gif)
+
+
 ## Required Features
 
 The following **required** functionality is completed:
